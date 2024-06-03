@@ -12,3 +12,4 @@ pytz
 demoji
 aiofiles
 coroutines
+asyncio
