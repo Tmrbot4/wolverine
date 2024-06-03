@@ -11,5 +11,5 @@ aiohttp
 pytz
 demoji
 aiofiles
-coroutines
+coroutine
 asyncio
